@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ed81692-ce57-4339-9c76-9ee9ae0a3b46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W6ksl8RPBA8FYJXRtDqeWTuMiV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/screenshot-1.1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Locators">
+    <configuration name="Keyboard_Mouse_Operation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.Keyboard_Mouse_Operation" />
+      <module name="Test_Selenium_Project.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Locators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.Locators" />
+      <module name="Test_Selenium_Project.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScreenShots" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.ScreenShots" />
+      <module name="Test_Selenium_Project.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.TestSelenium" />
+      <module name="Test_Selenium_Project.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Locators" />
+        <item itemvalue="Application.Keyboard_Mouse_Operation" />
+        <item itemvalue="Application.ScreenShots" />
+        <item itemvalue="Application.TestSelenium" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ed81692-ce57-4339-9c76-9ee9ae0a3b46" name="Default Changelist" comment="" />
+      <created>1578477641000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578477641000</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="282" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578483955240">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state x="451" y="282" width="424" height="484" key="FileChooserDialogImpl/67.27.1213.997@67.27.1213.997" timestamp="1578483955240" />
+    <state width="1167" height="289" key="GridCell.Tab.0.bottom" timestamp="1578552312584">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state width="1167" height="289" key="GridCell.Tab.0.bottom/67.27.1213.997@67.27.1213.997" timestamp="1578552312584" />
+    <state width="1167" height="289" key="GridCell.Tab.0.center" timestamp="1578552312582">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state width="1167" height="289" key="GridCell.Tab.0.center/67.27.1213.997@67.27.1213.997" timestamp="1578552312582" />
+    <state width="1167" height="289" key="GridCell.Tab.0.left" timestamp="1578552312582">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state width="1167" height="289" key="GridCell.Tab.0.left/67.27.1213.997@67.27.1213.997" timestamp="1578552312582" />
+    <state width="1167" height="289" key="GridCell.Tab.0.right" timestamp="1578552312583">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state width="1167" height="289" key="GridCell.Tab.0.right/67.27.1213.997@67.27.1213.997" timestamp="1578552312583" />
+    <state width="1167" height="321" key="GridCell.Tab.1.bottom" timestamp="1578493112439">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state width="1167" height="321" key="GridCell.Tab.1.bottom/67.27.1213.997@67.27.1213.997" timestamp="1578493112439" />
+    <state width="1167" height="321" key="GridCell.Tab.1.center" timestamp="1578493112438">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state width="1167" height="321" key="GridCell.Tab.1.center/67.27.1213.997@67.27.1213.997" timestamp="1578493112438" />
+    <state width="1167" height="321" key="GridCell.Tab.1.left" timestamp="1578493112437">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state width="1167" height="321" key="GridCell.Tab.1.left/67.27.1213.997@67.27.1213.997" timestamp="1578493112437" />
+    <state width="1167" height="321" key="GridCell.Tab.1.right" timestamp="1578493112438">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state width="1167" height="321" key="GridCell.Tab.1.right/67.27.1213.997@67.27.1213.997" timestamp="1578493112438" />
+    <state x="156" y="102" width="1024" height="845" key="SettingsEditor" timestamp="1578484221973">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state x="156" y="102" width="1024" height="845" key="SettingsEditor/67.27.1213.997@67.27.1213.997" timestamp="1578484221973" />
+    <state x="329" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1578542226703">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state x="329" y="352" key="com.intellij.ide.util.TipDialog/67.27.1213.997@67.27.1213.997" timestamp="1578542226703" />
+    <state x="67" y="117" width="1203" height="814" key="new project wizard" timestamp="1578488862406">
+      <screen x="67" y="27" width="1213" height="997" />
+    </state>
+    <state x="67" y="117" width="1203" height="814" key="new project wizard/67.27.1213.997@67.27.1213.997" timestamp="1578488862406" />
+  </component>
+</project>
